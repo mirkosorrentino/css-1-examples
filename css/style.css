@@ -4,16 +4,20 @@
 
 .blue-title {
     color: blue;
+    font-family: 'roboto', sans-serif;
 }
 
 h2 {
     color: rgb(255, 0, 0);
+    font-size: 50px;
+    text-decoration: line-through;
 }
 
 .green-title {
     color: green;
     font-size: 30px;
     background-color: blueviolet;
+    text-align: right;
 }
 
 main {
