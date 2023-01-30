@@ -1,0 +1,33 @@
+#title {
+    color: aqua;
+}
+
+.blue-title {
+    color: blue;
+}
+
+h2 {
+    color: rgb(255, 0, 0);
+}
+
+.green-title {
+    color: green;
+    font-size: 30px;
+    background-color: blueviolet;
+}
+
+main {
+    background-color: yellow;
+    border: solid brown 10px;
+}
+
+.black-section{
+    background-color: black;
+}
+
+header {
+    background-image: url(../img/newyork1.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200px;
+}
